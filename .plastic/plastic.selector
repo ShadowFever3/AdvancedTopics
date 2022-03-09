@@ -1,4 +1,0 @@
-repository "AdvancedTopics@iShadow@Cloud"
-  path "/"
-    br "/main"
-    co "/main"
